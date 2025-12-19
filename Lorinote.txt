@@ -4,3 +4,4 @@ new line from feature1 branch
 本次是B内容
 本次是C内容
 这是 main 分支的内容
+这是 conflict-test 分支的内容
